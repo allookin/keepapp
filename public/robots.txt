@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow:
+Sitemap: http://intouch-x.ru/sitemap.xml
+
+User-agent: Yandex
+Disallow:
+Sitemap: http://intouch-x.ru/sitemap.xml

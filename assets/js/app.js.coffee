@@ -1,0 +1,9 @@
+#= require lib/jquery-1.11.1.min.js
+#= require lib/jquery.easing.1.3.js
+#= require lib/jquery.mousewheel.js
+#= require lib/jquery.jcarousel.js
+#= require lib/jquery.magnific-popup
+#= require lib/jquery.fileDownload
+#= require lib/plax
+#= require common.js
+#= require slider.js
